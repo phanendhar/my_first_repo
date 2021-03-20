@@ -23,3 +23,7 @@ cat file.txt | wc -l
 
 This is a link for the installation of parrot os [PARROT](https://linuxhint.com/install_parrot_sec_os/)
 
+# lets add something about myself
+
+- Iam a SoC verification intern at sion semiconductors
+- Iam going to complete my masters from sac state
