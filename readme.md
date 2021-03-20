@@ -23,4 +23,3 @@ cat file.txt | wc -l
 
 This is a link for the installation of parrot os [PARROT](https://linuxhint.com/install_parrot_sec_os/)
 
-![Image.](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpaperaccess.com%2Funix&psig=AOvVaw0kID_137x4KTUQbL0kTxcT&ust=1616314659315000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCICKhLy3vu8CFQAAAAAdAAAAABAD)
